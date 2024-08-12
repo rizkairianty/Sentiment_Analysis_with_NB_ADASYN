@@ -8,4 +8,4 @@
 
 ## Dataset
 
-I use the IndoNLU SmSA dataset created by Purwarianti and Crisdayanti in 2019. This dataset is a collection of comments and reviews in Indonesian obtained from various online platforms such as Twitter, Zomato, and TripAdvisor. The dataset includes three possible sentiments: positive, negative, and neutral.
+I use the [IndoNLU SmSA dataset](https://aclanthology.org/2020.aacl-main.85.pdf) created by Purwarianti and Crisdayanti in 2019. This dataset is a collection of comments and reviews in Indonesian obtained from various online platforms such as Twitter, Zomato, and TripAdvisor. The dataset includes three possible sentiments: positive, negative, and neutral.
