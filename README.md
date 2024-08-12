@@ -1,4 +1,4 @@
-# Sentiment_Analysis_with_NB_ADASYN
+# Sentiment Analysis with Naive Bayes and ADASYN
 
 ## Objectives
 
